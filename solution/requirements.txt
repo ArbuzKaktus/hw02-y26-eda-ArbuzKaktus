@@ -1,0 +1,10 @@
+streamlit>=1.49,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+plotly>=6.0,<7
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+scipy>=1.15,<2
+statsmodels>=0.14,<1
+scikit-learn>=1.5,<2
+geopandas>=1.0,<2

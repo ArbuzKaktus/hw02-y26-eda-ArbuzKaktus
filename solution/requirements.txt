@@ -8,4 +8,5 @@ scipy>=1.15,<2
 statsmodels>=0.14,<1
 scikit-learn>=1.5,<2
 geopandas>=1.0,<2
+shapely>=2.0,<3
 nbformat>=4.2,<6
